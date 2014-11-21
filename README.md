@@ -1,6 +1,6 @@
 #AValidations android表单验证框架
 
-
+![](/screenshots.gif)
 
 > AValidations为库，可以直接导出jar包
 
