@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TitleView">
+        <attr name="left_bg" format="reference" />
+        <attr name="left_text" format="reference" />
+        <attr name="left_src" format="reference" />
+        <attr name="title_text" format="reference" />
+        <attr name="right_bg" format="reference" />
+        <attr name="right_text" format="reference" />
+        <attr name="right_src" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="RoundedImageView">
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_inside_color" format="color" />
+        <attr name="border_outside_color" format="color" />
+    </declare-styleable>
+
+</resources>

@@ -1,6 +1,3 @@
-/.settings
-/org.eclipse.jdt.core.prefs
-
-/bin
-
-/gen
+.settings
+gen
+bin
