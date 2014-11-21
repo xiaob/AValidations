@@ -12,11 +12,9 @@
     <!-- 按钮文字大小 -->
     <dimen name="line_height">1px</dimen>
     <!-- 分割线 -->
-    <dimen name="top_bar_button_padding">15dp</dimen>
     <dimen name="layout_padding">20dp</dimen>
     <dimen name="textview_padding">15dp</dimen>
     <dimen name="layout_margin">15dp</dimen>
-    <dimen name="head_icon_broder">2dp</dimen>
 
     <!-- drawable -->
     <dimen name="red_button_padding">20dp</dimen>
@@ -27,9 +25,6 @@
     <dimen name="login_reg_button_radius">8dp</dimen>
     <dimen name="login_reg_button_stroke">1px</dimen>
 
-    <!-- login_reg边框 -->
-    <dimen name="main_show_room_logout_margin">15dp</dimen>
-    <dimen name="main_show_room_logout_height">54dp</dimen>
 
     <!-- LoginActivity -->
     <dimen name="login_layout_margin">15dp</dimen>

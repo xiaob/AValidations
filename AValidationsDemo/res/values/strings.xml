@@ -11,12 +11,12 @@
 
     <!-- 常规 -->
     <string name="edit_text_type">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
-    <string name="app_name">SaicTelematicsAS</string>
+    <string name="app_name">AValidationsDemo</string>
     <string name="submit">Submit</string>
 
     <!-- LoginActivity -->
     <string name="login_title">Login</string>
-    <string name="login_username_hint">Mobile/Username/inkaNet ID</string>
+    <string name="login_username_hint">Enter Username</string>
     <string name="login_password_hint">Enter Password</string>
     <string name="login_username_length_hint">Username length between 8 to 12</string>
     <string name="login_password_length_hint">Password length between 8 to 12</string>

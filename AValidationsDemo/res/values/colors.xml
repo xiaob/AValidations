@@ -12,7 +12,6 @@
     <color name="title_bg">#d2232a</color> <!-- 标题文字背景 -->
     <color name="line_bg">#cccccc</color> <!-- 分割线 -->
     <color name="text_color">#666666</color><!-- 文字颜色 -->
-    <color name="top_bar_button_selected_bg">#b81b30</color>
     <color name="gray_text_color_normal">#999999</color>
     <color name="gray_text_color_selected">#3f3f3f</color>
     <color name="layout_select_bg">#dde9f9</color>

@@ -22,6 +22,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.cndemoz.avalidations.EditTextValidator;
 import com.cndemoz.avalidations.ValidationModel;
@@ -66,7 +67,7 @@ public class LoginActivity extends Activity implements OnClickListener{
 		case R.id.login_button:
 
 			if (editTextValidator.validate()) {
-
+				Toast.makeText(this, "通过校验", Toast.LENGTH_SHORT).show();
 			}
 			break;
 		}
